@@ -1,4 +1,4 @@
-# 时之笛 3D：陶笛按键对照表
+# 时之笛 (Switch2/3DS)：陶笛按键对照表
 
 [English](README.md) | 中文
 
