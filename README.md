@@ -1,4 +1,4 @@
-# Ocarina of Time 3D: Ocarina Note Chart
+# Ocarina of Time (Switch2/3DS): Ocarina Note Chart
 
 English | [中文](README.zh-CN.md)
 
