@@ -1,4 +1,4 @@
-# Ocarina of Time (Switch2/3DS): Ocarina Note Chart
+# The Legend of Zelda: Ocarina of Time (Switch2): Ocarina Note Chart
 
 English | [中文](README.zh-CN.md)
 
@@ -6,7 +6,7 @@ A button chart for playing any melody on the ocarina in *The Legend of Zelda: Oc
 
 ## How it works
 
-The ocarina has five base notes:
+The ocarina in the game has five base notes:
 
 | Button | Note |
 | ------ | ---- |
@@ -18,13 +18,13 @@ The ocarina has five base notes:
 
 You can change the pitch while playing:
 
-- **⇧** = hold the Circle Pad fully **up**: raises the note by a whole step
-- **⇩** = hold the Circle Pad fully **down**: lowers the note by a whole step
-- **D-pad up / down**: raises / lowers the note by a half step
+- **⇧** = hold the **Left Stick** fully **up**: raises the note by a whole step
+- **⇩** = hold the **Left Stick** fully **down**: lowers the note by a whole step
+- **↑/↓** = **D-pad up / down**: raises / lowers the note by a half step
 
 ## C major chart
 
-The notes most C major songs need, from C5 to E6 plus B♭. The first method uses only the Circle Pad; the alternative uses the D-pad or a different base button.
+The notes most C major songs need, from C5 to E6 plus B♭. The first method uses only the Left Stick; the alternative uses the D-pad or a different base button.
 
 | Note      | Buttons        | Alternative    |
 | --------- | -------------- | -------------- |
@@ -44,7 +44,7 @@ The notes most C major songs need, from C5 to E6 plus B♭. The first method use
 
 All 17 notes the ocarina can play in tune. To transcribe a song, pick a key that keeps the melody inside this range, then look up each note. Sharps and flats on the same row are the same pitch.
 
-| Note      | Circle Pad method | D-pad method                   |
+| Note      | Left Stick method | D-pad method                   |
 | --------- | ----------------- | ------------------------------ |
 | C5        | L⇩                | —                              |
 | C♯5 / D♭5 | —                 | L + D-pad down                 |
